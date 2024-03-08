@@ -51,4 +51,14 @@ const LemonElias = {
 </p>
 </details>
 
+
+<details><summary>See my recent GitHub Activity</summary>
+    <p>&nbsp;
+    <div>
+        <!--START_SECTION:activity-->
+        <!--END_SECTION:activity-->
+    </div>
+    </p>
+</details>
+
 <div align=center><p>In Progress...</p></div>
