@@ -26,11 +26,23 @@ const LemonElias = {
 };
 ```
 &nbsp;<div align="center">
+<p>Listening to :</p>
+
 [![Spotify](https://develias-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/enderzatron)
 </div>
 
 <h2>Languages and Tools</h2>
 
-<details><summary>See my GitHub Stats</summary><p>Coming soon...</p></details>
+<details><summary>See my GitHub Stats</summary>
+    <p>&nbsp;
+    <div>
+        <img align="left" alt="LemonElias' GitHub Stats" src="https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&include_all_commits=true&hide_border=true&theme=algolia#gh-dark-mode-only"/></a>
+        <img align="left" alt="LemonElias' GitHub Stats" src="https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&include_all_commits=true&hide_border=true&theme=swift#gh-light-mode-only"/></a>
+        <img alt="LemonElias' most used languages" src="https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&layout=compact&hide_border=true&theme=algolia#gh-dark-mode-only">
+        <img alt="LemonElias' most used languages" src="https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&layout=compact&hide_border=true&theme=swift#gh-light-mode-only">
+    </div>
+</p>
+</details>
 
-### In Progress...
+<div align=center><p>In Progress...</p></div>
+
