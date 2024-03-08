@@ -3,8 +3,10 @@
 
 <!--- Following and Redirect Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/xLemonElias?label=Follow)](https://twitter.com/intent/follow?screen_name=xLemonElias)
-![GitHub followers](https://img.shields.io/github/followers/LemonElias?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lemonelias.de/)](https://lemonelias.de/)
+![GitHub Follow](https://img.shields.io/github/followers/lemonelias?style=social&label=Follow&link=https%3A%2F%2Fgithub.com%2FLemonElias)
+![Reddit Follow](https://img.shields.io/reddit/user-karma/link/xLemonElias?style=social&label=Follow&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FxLemonElias%2F)
+![Twitch Follow](https://img.shields.io/twitch/status/xlemonelias?style=social&label=Follow&link=https%3A%2F%2Fwww.twitch.tv%2Fxlemonelias)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lemonelias.de/)](https://lemonelias.de/)
 
 ### A little bit more about me...
 
