@@ -1,12 +1,14 @@
 <h2>I am LemonElias</h2>
 <p><em>Coding beginner searching for new challenges through 2024</em></p>
 
+<!--- Following and Redirect Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/xLemonElias?label=Follow)](https://twitter.com/intent/follow?screen_name=xLemonElias)
 ![GitHub followers](https://img.shields.io/github/followers/LemonElias?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lemonelias.de/)](https://lemonelias.de/)
 
 ### A little bit more about me...
 
+<!--- Markdown written biography in javascript -->
 ```javascript
 const LemonElias = {
     pronouns: "He" | "Him",
@@ -25,24 +27,26 @@ const LemonElias = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+<!--- Spotify listening to section with sync in spotify api -->
 &nbsp;<div align="center">
 <p>Listening to :</p>
 
 [![Spotify](https://develias-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/enderzatron)
 </div>
 
+<!--- Planned Languages and Tools section with icons -->
 <h2>Languages and Tools</h2>
 
+<!--- GitHub stats and top languages used section -->
 <details><summary>See my GitHub Stats</summary>
     <p>&nbsp;
     <div>
-        <img align="left" alt="LemonElias' GitHub Stats" src="https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&include_all_commits=true&hide_border=true&theme=algolia#gh-dark-mode-only"/></a>
-        <img align="left" alt="LemonElias' GitHub Stats" src="https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&include_all_commits=true&hide_border=true&theme=swift#gh-light-mode-only"/></a>
-        <img alt="LemonElias' most used languages" src="https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&layout=compact&hide_border=true&theme=algolia#gh-dark-mode-only">
-        <img alt="LemonElias' most used languages" src="https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&layout=compact&hide_border=true&theme=swift#gh-light-mode-only">
+
+[![LemonElias' GitHub stats-Light](https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&theme=swift)](https://github.com/lemonelias/github-readme-stats)
+[![LemonElias' Top Langs](https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&theme=swift)](https://github.com/lemonelias/github-readme-stats)
     </div>
 </p>
 </details>
 
 <div align=center><p>In Progress...</p></div>
-
