@@ -62,6 +62,13 @@ const LemonElias = {
 </details>
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML     1 hr 15 mins    █████████████████████████   99.44 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align=center><p>In Progress...</p></div>
