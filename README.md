@@ -30,15 +30,20 @@ const LemonElias = {
 };
 ```
 
+<!--- Languages and Tools section with icons -->
+<h2>Languages and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,discordjs,html,css,git,vscode" />
+  </a>
+</p>
+
 <!--- Spotify listening to section with sync in spotify api -->
 &nbsp;<div align="center">
 <p>Listening to :</p>
 
 [![Spotify](https://develias-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/enderzatron)
 </div>
-
-<!--- Planned Languages and Tools section with icons -->
-<h2>Languages and Tools</h2>
 
 <!--- GitHub stats and top languages used section -->
 <details><summary>See my GitHub Stats</summary>
