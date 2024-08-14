@@ -38,18 +38,11 @@ const LemonElias = {
   </a>
 </p>
 
-<!--- Spotify listening to section with sync in spotify api -->
+<!--- Spotify and Discord section with sync in Spotify and Discord api -->
 &nbsp;<div align="center">
 <p>What I am doing right now :</p>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=482089415284621322) 
-
-[![Spotify](https://develias-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/enderzatron)
-</div>
-<!--- GitHub stats and top languages used section -->
-<details><summary>See my GitHub Stats</summary>
-    <p>&nbsp;
-    <div>
 
 [![LemonElias' GitHub stats-Light](https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&theme=swift)](https://github.com/lemonelias/github-readme-stats)
 [![LemonElias' Top Langs](https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&theme=swift)](https://github.com/lemonelias/github-readme-stats)
