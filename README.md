@@ -43,8 +43,10 @@ const LemonElias = {
 <p>What I am doing right now :</p>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=482089415284621322) 
+</div>
 
-<details><summary>See my GitHub Stats</summary>
+<div><details><summary>See my GitHub Stats</summary>
+    
 [![LemonElias' GitHub stats-Light](https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&theme=swift)](https://github.com/lemonelias/github-readme-stats)
 [![LemonElias' Top Langs](https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&theme=swift)](https://github.com/lemonelias/github-readme-stats)
     </div>
