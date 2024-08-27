@@ -18,7 +18,7 @@ const LemonElias = {
     teachMeAbout: ["web development", "github", "app development", "designing"],
     fullStack: {
         projects: {
-            vscode: ["LemonElias-Website", "LemonTurtle-Discordbot", "Elly&Jonny-Website"],
+            vscode: ["einfachinfo.de", "Coding-Documentations", "LemonElias-Website"],
         },
         Organization: {
             dev: ["NekoleinDevelopment"]
