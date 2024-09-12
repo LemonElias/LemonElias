@@ -55,9 +55,9 @@ const LemonElias = {
 
 <div align="center">
 <details><summary>See my recent GitHub Activity</summary>
-    <p>&nbsp;
-        <!--START_SECTION:activity-->
-    </p>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 </details>
 </div>
 
