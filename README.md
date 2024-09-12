@@ -4,8 +4,7 @@
 <!--- Following and Redirect Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/xLemonElias?label=Follow)](https://twitter.com/intent/follow?screen_name=xLemonElias)
 ![GitHub Follow](https://img.shields.io/github/followers/lemonelias?style=social&label=Follow&link=https%3A%2F%2Fgithub.com%2FLemonElias)
-![Reddit Follow](https://img.shields.io/reddit/user-karma/link/xLemonElias?style=social&label=Follow&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FxLemonElias%2F)
-![Twitch Follow](https://img.shields.io/twitch/status/xlemonelias?style=social&label=Follow&link=https%3A%2F%2Fwww.twitch.tv%2Fxlemonelias)
+[![Twitch Follow](https://img.shields.io/twitch/status/xlemonelias?style=social&label=Follow&link=https%3A%2F%2Fwww.twitch.tv%2Fxlemonelias)](https://www.twitch.tv/xlemonelias)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lemonelias.de/)](https://lemonelias.de/)
 
 ### A little bit more about me...
@@ -43,23 +42,25 @@ const LemonElias = {
 <p>What I am doing right now :</p>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=482089415284621322) 
+
+<!--- Github Stats Section with tracked github streak and github activity trough vercel -->
+---
+<p>See my GitHub Stats:</p></div>
+
+[![GitHub Streak](https://github-readme-streak-stats-tau-black.vercel.app?user=LemonElias&theme=transparent&border_radius=5&exclude_days=Sat&hide_longest_streak=true)](https://git.io/streak-stats)
+<div align="right">
+    
+![GitHub stats](https://github-readme-stats-lemonelias.vercel.app/api?username=LemonElias&theme=dark&show_icons=true)
 </div>
 
-<div><details><summary>See my GitHub Stats</summary>
-    
-[![LemonElias' GitHub stats-Light](https://develias-readme-stats.vercel.app/api?username=lemonelias&show_icons=true&theme=swift)](https://github.com/lemonelias/github-readme-stats)
-[![LemonElias' Top Langs](https://develias-readme-stats.vercel.app/api/top-langs/?username=lemonelias&theme=swift)](https://github.com/lemonelias/github-readme-stats)
-    </div>
-</p>
-</details>
-
-
+<div align="center">
 <details><summary>See my recent GitHub Activity</summary>
     <p>&nbsp;
         <!--START_SECTION:activity-->
         <!--END_SECTION:activity-->
     </p>
 </details>
+</div>
 
 <!--START_SECTION:waka-->
 
