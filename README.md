@@ -41,7 +41,7 @@ const LemonElias = {
 &nbsp;<div align="center">
 <p>What I am doing right now :</p>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=482089415284621322) 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=482089415284621322)
 
 <!--- Github Stats Section with tracked github streak and github activity trough vercel -->
 ---
