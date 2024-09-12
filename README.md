@@ -57,7 +57,6 @@ const LemonElias = {
 <details><summary>See my recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 </details>
 </div>
 
