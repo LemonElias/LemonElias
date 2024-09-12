@@ -47,11 +47,11 @@ const LemonElias = {
 ---
 <p>See my GitHub Stats:</p></div>
 
-[![GitHub Streak](https://github-readme-streak-stats-tau-black.vercel.app?user=LemonElias&theme=transparent&border_radius=5&exclude_days=Sat&hide_longest_streak=true)](https://git.io/streak-stats)
-<div align="right">
+<div align="center">
     
-![GitHub stats](https://github-readme-stats-lemonelias.vercel.app/api?username=LemonElias&theme=dark&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonElias&theme=transparent&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats-tau-black.vercel.app?user=LemonElias&theme=transparent&border_radius=5&exclude_days=Sat&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
+
 
 <div align="center">
 <details><summary>See my recent GitHub Activity</summary>
