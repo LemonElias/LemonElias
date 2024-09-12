@@ -56,6 +56,8 @@ const LemonElias = {
 <div align="center">
 <details><summary>See my recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/einfachinfo/einfachinfo.de/issues/1) in [einfachinfo/einfachinfo.de](https://github.com/einfachinfo/einfachinfo.de)
+<!--END_SECTION:activity-->
 
 </details>
 </div>
