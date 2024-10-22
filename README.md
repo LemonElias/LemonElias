@@ -65,20 +65,20 @@ const LemonElias = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 March 2024 - To: 19 October 2024
+From: 06 March 2024 - To: 20 October 2024
 
-Total Time: 51 hrs
+Total Time: 51 hrs 26 mins
 
-Markdown       18 hrs 53 mins  >>>>>>>>>----------------   36.75 %
-HTML           12 hrs 23 mins  >>>>>>-------------------   24.09 %
-CSS            7 hrs 17 mins   >>>>---------------------   14.18 %
-JavaScript     5 hrs 13 mins   >>>----------------------   10.16 %
-Python         4 hrs 53 mins   >>-----------------------   09.50 %
-Git Config     1 hr 18 mins    >------------------------   02.53 %
-Java           31 mins         -------------------------   01.03 %
-Other          25 mins         -------------------------   00.82 %
+Markdown       18 hrs 53 mins  >>>>>>>>>----------------   36.44 %
+HTML           12 hrs 23 mins  >>>>>>-------------------   23.89 %
+CSS            7 hrs 17 mins   >>>>---------------------   14.06 %
+JavaScript     5 hrs 13 mins   >>>----------------------   10.08 %
+Python         4 hrs 53 mins   >>-----------------------   09.42 %
+Git Config     1 hr 18 mins    >------------------------   02.51 %
+Java           31 mins         -------------------------   01.02 %
+TeX            26 mins         -------------------------   00.85 %
+Other          25 mins         -------------------------   00.81 %
 ObjectPascal   13 mins         -------------------------   00.43 %
-Git            11 mins         -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
