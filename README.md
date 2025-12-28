@@ -65,7 +65,7 @@ const LemonElias = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 March 2024 - To: 25 December 2025
+From: 06 March 2024 - To: 26 December 2025
 
 Total Time: 59 hrs 57 mins
 
