@@ -1,5 +1,5 @@
 <h2>I am LemonElias</h2>
-<p><em>Coding beginner searching for new challenges through 2024</em></p>
+<p><em>Computer Science Student</em></p>
 
 <!--- Following and Redirect Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/xLemonElias?label=Follow)](https://twitter.com/intent/follow?screen_name=xLemonElias)
@@ -14,17 +14,17 @@
 const LemonElias = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "HTML"],
-    teachMeAbout: ["web development", "github", "app development", "designing"],
+    favoriteTools: ["Visual Studio Code", "GitHub", "Git", "Claude.ai"],
     fullStack: {
         projects: {
-            vscode: ["einfachinfo.de", "Coding-Documentations", "LemonElias-Website"],
+            vscode: [],
         },
         Organization: {
             dev: ["NekoleinDevelopment"]
         },
     },
-    streaming: ["Is planned for 2025 with gaming and development content"],
-    additionalInformation: ["I love playing video games and you can always hit me up to play"],
+    streaming: ["Not streaming currently because of University"],
+    additionalInformation: ["Balancing my lifestyle between Study, Gaming and Code"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -33,11 +33,11 @@ const LemonElias = {
 <h2>Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,discordjs,html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,discordjs,html,css,git,vscode" />
   </a>
 </p>
 
-<!--- Spotify and Discord section with sync in Spotify and Discord api -->
+<!--- Discord section with sync in Discord api -->
 &nbsp;<div align="center">
 <p>What I am doing right now :</p>
 
@@ -45,22 +45,6 @@ const LemonElias = {
 
 <!--- Github Stats Section with tracked github streak and github activity trough vercel -->
 ---
-<p>See my GitHub Stats:</p></div>
-
-<div align="center">
-    
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonElias&theme=transparent&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats-tau-black.vercel.app?user=LemonElias&theme=transparent&border_radius=5&exclude_days=Sat&hide_longest_streak=true)](https://git.io/streak-stats)
-</div>
-
-
-<div align="center">
-<details><summary>See my recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/einfachinfo/einfachinfo.de/issues/1) in [einfachinfo/einfachinfo.de](https://github.com/einfachinfo/einfachinfo.de)
-<!--END_SECTION:activity-->
-
-</details>
-</div>
 
 <!--START_SECTION:waka-->
 
