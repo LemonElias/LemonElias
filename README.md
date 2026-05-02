@@ -40,7 +40,7 @@ const LemonElias = {
 <!--- Discord section with sync in Discord api -->
 &nbsp;<div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/94490510688792576?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/482089415284621322)
+[![Discord Presence](https://lanyard.cnrad.dev/api/482089415284621322?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/482089415284621322)
 
 <!--- Github Stats Section with tracked github streak and github activity trough vercel -->
 ---
