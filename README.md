@@ -49,16 +49,16 @@ const LemonElias = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 April 2026 - To: 20 September 2026
+From: 30 April 2026 - To: 22 September 2026
 
-Total Time: 18 hrs 17 mins
+Total Time: 23 hrs 15 mins
 
-Java         15 hrs 10 mins        ████████████████████▓░░░░   82.94 %
-Python       2 hrs 28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Bash         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Text         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java         15 hrs 10 mins        ████████████████▒░░░░░░░░   65.19 %
+Python       7 hrs 25 mins         ████████░░░░░░░░░░░░░░░░░   31.87 %
+Bash         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Text         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
