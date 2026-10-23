@@ -49,17 +49,18 @@ const LemonElias = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 April 2026 - To: 21 October 2026
+From: 30 April 2026 - To: 22 October 2026
 
-Total Time: 33 hrs 54 mins
+Total Time: 35 hrs 12 mins
 
-Python       16 hrs 17 mins        ████████████░░░░░░░░░░░░░   47.91 %
-Java         15 hrs 10 mins        ███████████░░░░░░░░░░░░░░   44.64 %
-HTML         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Other        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Bash         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Text         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python        16 hrs 17 mins        ███████████▓░░░░░░░░░░░░░   46.14 %
+Java          15 hrs 10 mins        ██████████▓░░░░░░░░░░░░░░   42.99 %
+HTML          1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Image (svg)   13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+CSS           7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript    5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Bash          5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
